@@ -1,0 +1,44 @@
+
+
+
+
+
+a:link, a:visited {
+    background-color: #136ea0;
+    color: white;
+    padding: 7px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px 50px;
+   
+}
+
+
+a:hover, a:active {
+    background-color: #178fd1;
+}
+
+
+
+
+
+
+h1 
+{
+	font-family: "Lucida Console", Monaco, monospace;
+
+}
+
+
+p 
+{
+	font-family: "Lucida Console", Monaco, monospace;
+
+}
+
+
+body {
+   background-image: url("http://ikconinfotech.com/blog/wp-content/uploads/2018/03/web-designer-pune-background.jpg");
+   background-color: #cccccc;
+}
